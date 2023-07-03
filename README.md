@@ -1,7 +1,7 @@
 This is a python based Snake game including AI mode. 
 
 Input:
-arrow keys to navigate in menu and steer the snake
+arrow keys to navigate in menu and steer the snake.
 enter to choose an option in menu.
 esc to leave a game
 
