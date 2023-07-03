@@ -13,4 +13,4 @@ In menu you have to choose exit.
 The AI Agents starts first with a q table full of zeros.
 He learns choosing the best decision via q learning.
 
-It is the first project i've ever made and there is lot of chatgpt content inside 
+It is the first project i've ever made and i would be happy about some feedback 
